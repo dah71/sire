@@ -1,1 +1,1 @@
-# sire
+This is a test repository.
